@@ -1,0 +1,4 @@
+name: Staffmode
+version: '${project.version}'
+main: com.brandan.staffmode.Main
+api-version: 1.20
